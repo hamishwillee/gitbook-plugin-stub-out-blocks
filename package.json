@@ -1,0 +1,8 @@
+{
+    "name": "gitbook-plugin-stub-out-blocks",
+    "version": "0.0.1",
+    "description": "Stubs out blocks that prevent me building on Windows - e.g. mermaid",
+    "engines": {
+        "gitbook": ">=3.2.2"
+    }
+}
